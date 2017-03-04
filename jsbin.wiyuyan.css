@@ -1,0 +1,63 @@
+body {
+  background-color:	#558000;
+}
+.jumbotron {
+  background-color:#336600;
+}
+h1 {
+  font-size: 35px;
+  text-align: center;
+ 
+  }
+#alcim {
+  color: #99cc00;
+  font-size: 20px;
+  text-align: center
+}
+.row {
+  margin: 0 auto;
+}
+h3 {
+  font-size: 20px;
+  text-align: center;
+}
+#rendszer {
+  border-style: solid;
+  border-width: medium;
+  border-color: red;
+  border-width: 5px;
+}
+ul.b {
+  list-style-type: square;
+  list-style-position: inside;
+}
+ul.c {
+  list-style-type: circle;
+  list-style-position: inside;
+}
+a {
+  color: #66b3ff;
+}
+a:hover { 
+  color:#ffff00;
+}
+.page-header {
+  font-size:20px;
+}
+.text-primary {
+  color: #0033cc;
+}
+#tart {
+  background-color: #cccc00;
+}
+#Fel  {
+  border-style: solid;
+  border-width: medium;
+  border-color: red;
+  border-width: 5px;
+  margin-top: 15%;
+}
+#video {
+  margin-top: 50px;
+ 
+}
